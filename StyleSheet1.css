@@ -30,3 +30,7 @@ main {
 section {
     margin-bottom: 2em;
 }
+.logo {
+    width: 150px;
+    height: auto;
+}
