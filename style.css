@@ -20,6 +20,10 @@ header {
 h1 {
     font-size: 2em;
     margin: 0.2em 0;
+    color: #0c2b00;
+}
+h2 {
+    color: #0c2b00;
 }
 
 main {
