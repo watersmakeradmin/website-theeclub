@@ -38,3 +38,43 @@ section {
     width: 150px;
     height: auto;
 }
+
+#calendar {
+    display: grid;
+    grid-template-columns: repeat(7, 1fr);
+    gap: 4px;
+    margin-top: 1em;
+}
+
+    #calendar .day {
+        border: 1px solid #ccc;
+        padding: 8px;
+        text-align: center;
+        min-height: 40px;
+    }
+
+    #calendar .header {
+        font-weight: bold;
+        background-color: #f0f0f0;
+    }
+
+.event-day {
+    background-color: #dfffd6;
+    cursor: pointer;
+    transition: background-color 0.2s ease;
+}
+
+    .event-day:hover {
+        background-color: #c7f7b5;
+    }
+
+#event-list {
+    margin-top: 1.5em;
+}
+
+#calendar-controls {
+    margin-bottom: 1em;
+    display: flex;
+    align-items: center;
+    gap: 1em;
+}
