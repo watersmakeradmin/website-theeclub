@@ -20,8 +20,36 @@ const events = [
     },
     { title: "Theeproeverij - 19:30", date: "2025-10-16" },
     { title: "Theeproeverij - 19:30", date: "2025-11-20" },
-    { title: "Theeproeverij - 19:30", date: "2025-12-18" }
+    { title: "Theeproeverij - 19:30", date: "2025-12-18" },
 
+    { title: "Theeproeverij - 19:30", date: "2026-01-15" },
+    { title: "Theeproeverij - 19:30", date: "2026-02-19" },
+    { title: "Theeproeverij - 19:30", date: "2026-03-19" },
+    { title: "Theeproeverij - 19:00", date: "2026-05-22" },
+    {
+        title: "Een Kopje Zen - QING MING - 19:00 - 22:00",
+        date: "2026-04-03",
+        link: ""
+    },
+    { title: "Theeproeverij - 19:30", date: "2026-04-16" },
+    { title: "Theeproeverij - 19:30", date: "2026-05-21" },
+    { title: "Theeproeverij - 19:30", date: "2026-06-18" },
+    {
+        title: "Een Kopje Zen - DRAKENBOOT FESTIVAL - 19:00 - 22:00",
+        date: "2026-06-19",
+        link: " "
+    },
+    { title: "Theeproeverij - 19:30", date: "2026-07-16" },
+    { title: "Theeproeverij - 19:30", date: "2026-08-20" },
+    { title: "Theeproeverij - 19:30", date: "2026-09-17" },
+    {
+        title: "Een Kopje Zen - Midherfst Festival- 19:00 - 22:00",
+        date: "2026-09-25",
+        link: " "
+    },
+    { title: "Theeproeverij - 19:30", date: "2026-10-15" },
+    { title: "Theeproeverij - 19:30", date: "2026-11-19" },
+    { title: "Theeproeverij - 19:30", date: "2026-12-17" },
 
 
 
