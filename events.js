@@ -25,8 +25,7 @@ const events = [
     { title: "Theeproeverij - 19:30", date: "2026-01-15" },
     { title: "Theeproeverij - 19:30", date: "2026-02-19" },
     { title: "Theeproeverij - 19:30", date: "2026-03-19" },
-    { title: "Theeproeverij - 19:00", date: "2026-05-22" },
-    {
+       {
         title: "Een Kopje Zen - QING MING - 19:00 - 22:00",
         date: "2026-04-03",
         link: ""
