@@ -28,7 +28,7 @@ const events = [
        {
         title: "Een Kopje Zen - QING MING - 19:00 - 22:00",
         date: "2026-04-03",
-        link: ""
+           link: "https://www.uitinvlaanderen.be/agenda/e/een-kopje-zen-qing-ming/4d316942-89ca-4619-bfef-d3682eebd6fd"
     },
     { title: "Theeproeverij - 19:30", date: "2026-04-16" },
     { title: "Theeproeverij - 19:30", date: "2026-05-21" },
@@ -36,7 +36,7 @@ const events = [
     {
         title: "Een Kopje Zen - DRAKENBOOT FESTIVAL - 19:00 - 22:00",
         date: "2026-06-19",
-        link: " "
+        link: "https://www.uitinvlaanderen.be/agenda/e/een-kopje-zen-drakenboot-festival/823e2f07-8d78-4c3d-b0a9-9445349bdab7"
     },
     { title: "Theeproeverij - 19:30", date: "2026-07-16" },
     { title: "Theeproeverij - 19:30", date: "2026-08-20" },
@@ -44,7 +44,7 @@ const events = [
     {
         title: "Een Kopje Zen - Midherfst Festival- 19:00 - 22:00",
         date: "2026-09-25",
-        link: " "
+        link: "https://www.uitinvlaanderen.be/agenda/e/een-kopje-zen-maanfestival/52dfe9ef-a45d-4f22-a71e-526c49f95009"
     },
     { title: "Theeproeverij - 19:30", date: "2026-10-15" },
     { title: "Theeproeverij - 19:30", date: "2026-11-19" },
