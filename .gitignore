@@ -1,0 +1,4 @@
+*.sqlite
+*.vsidx
+*.json
+*.config
